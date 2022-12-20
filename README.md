@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for coming here
+Welcome to my Github profile!
 
 - 🔭 I’m currently working as
   -  Data Analytics instructor with IN4 Group, based in Manchester, UK
